@@ -1,0 +1,59 @@
+.wcmsg{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:white;
+	
+	width:900px;
+	text-align:center;
+	background-color:#a55c1b;
+    background-image: linear-gradient(315deg, #000000 0%, #a55c1b 74%);
+	display:block;
+	margin-top: 10px;
+	border-radius:10px;
+}
+
+.ddl{
+	font-family:Times New Roman;
+	font-size:50px;
+	color:white;
+	width:600px;
+	text-align:center;
+	background-color:#a55c1b;
+    background-image: linear-gradient(315deg, #a55c1b 0%, #000000 74%);
+	display:block;
+	margin-top: 50px;
+	margin-left: 120px;
+	border-radius:10px;
+	
+	
+}
+
+body{
+	background-image:url("glass.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+
+label{
+	text-align: left;
+	width:200px;
+	padding-left: 30px;
+	display:inline-block;
+}
+
+
+input{
+	size:270px;
+	width:270px;
+	height:30px;
+}
+
+
+
+
+
+
+
+
+
